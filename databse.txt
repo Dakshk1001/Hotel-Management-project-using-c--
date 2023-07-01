@@ -1,0 +1,5 @@
+ 1 juice 70 2
+ 1 juice 70 2
+ 1 ghee 20 2
+ 1 ghee 33 3
+ 2 chai 10 5
